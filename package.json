@@ -1,0 +1,24 @@
+{
+  "name": "nodejs_lv2_chatapp",
+  "version": "1.0.0",
+  "description": "This is the 2th of 18th repositories created to practice NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agudelojohn/NodeJS_LV2_ChatApp.git"
+  },
+  "author": "John Agudelo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agudelojohn/NodeJS_LV2_ChatApp/issues"
+  },
+  "homepage": "https://github.com/agudelojohn/NodeJS_LV2_ChatApp#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.5.4"
+  }
+}
